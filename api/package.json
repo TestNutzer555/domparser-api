@@ -1,0 +1,12 @@
+{
+  "name": "domparser-api",
+  "version": "1.0.0",
+  "description": "API for parsing AI tool listings from HTML",
+  "main": "api/parse.js",
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  },
+  "scripts": {
+    "start": "node api/parse.js"
+  }
+}
